@@ -1,4 +1,4 @@
-<head>Readme.md</head>
+#<head>Readme.md</head>
 
 <b>RoBee v2 Library</b>
 <a href="http://www.beelectronics.org/#!blank/qj2vw">http://www.beelectronics.org/#!blank/qj2vw</a>
@@ -6,10 +6,10 @@
 
 You should inlcude these libraries in your sketches:
 
-#include "RoBee.h"
-#include <Servo.h>
-#include <SoftwareSerial.h>
-#include <dht.h>
+RoBee.h
+Servo.h
+SoftwareSerial.h
+dht.h
 
 dht11 library is:
 <a href="https://github.com/winlinvip/SimpleDHT">https://github.com/winlinvip/SimpleDHT</a>

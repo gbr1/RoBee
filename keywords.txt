@@ -1,0 +1,22 @@
+RoBee       KEYWORD1
+
+getDistance KEYWORD2
+getLux      KEYWORD2
+isPressed   KEYWORD2
+getTrimmer  KEYWORD2
+setRed      KEYWORD2
+clearRed    KEYWORD2
+setGreen    KEYWORD2
+clearGreen  KEYWORD2
+setBlue     KEYWORD2
+clearBlue   KEYWORD2
+setRGB      KEYWORD2
+attach      KEYWORD2
+setMotorA   KEYWORD2
+setMotorB   KEYWORD2
+update      KEYWORD2
+getTemperature  KEYWORD2
+getHumidity KEYWORD2
+
+CM          LITERAL1    Constants
+INCH        LITERAL1    Constants

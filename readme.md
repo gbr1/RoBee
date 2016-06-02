@@ -6,10 +6,10 @@
 
 You should inlcude these libraries in your sketches:
 
-RoBee.h
-Servo.h
-SoftwareSerial.h
-dht.h
+ - RoBee.h
+ - Servo.h
+ - SoftwareSerial.h
+ - dht.h
 
 dht11 library is:
 <a href="https://github.com/winlinvip/SimpleDHT">https://github.com/winlinvip/SimpleDHT</a>
